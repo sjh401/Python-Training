@@ -20,3 +20,8 @@ print(floor(3.7))
 print(ceil(3.7))
 print(pow(2,3))
 print(sqrt(36))
+
+# lesson 5
+name = input("Enter your name: ")
+age = input("Enter your age:")
+print("Hello " + name +"! You are " + age +".")
